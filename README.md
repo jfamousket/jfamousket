@@ -11,4 +11,3 @@
 - :outbox_tray: [csv2json](https://github.com/meshleteam/csvjsonconverter)
 - :computer: [awesomewm-config](https://github.com/jfamousket/dotfiles)
 <img src="https://github-readme-stats.vercel.app/api?username=jfamousket&&show_icons=true&theme=nord&count_private=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfamousket&layout=compact&theme=nord&count_private=true"/>
